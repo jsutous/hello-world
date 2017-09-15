@@ -1,3 +1,3 @@
 # hello-world
 Test repository
-This are the readme edits
+These are the readme edits
